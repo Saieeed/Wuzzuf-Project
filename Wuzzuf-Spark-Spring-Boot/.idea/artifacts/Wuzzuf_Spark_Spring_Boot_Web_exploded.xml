@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Wuzzuf-Spark-Spring-Boot:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Wuzzuf_Spark_Spring_Boot_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Wuzzuf-Spark-Spring-Boot/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="Wuzzuf-Spark-Spring-Boot/web/Web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
